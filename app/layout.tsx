@@ -3,7 +3,7 @@ import './globals.css'
 
 
 export const metadata = {
-  title: 'CarWow',
+  title: 'CarHub',
   description: 'Discover the best cars in the world',
 }
 
